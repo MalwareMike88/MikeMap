@@ -29,6 +29,7 @@ Target files will be generated. These target files will contain targets that hav
 
 **Nmap**: Contains the nmap scans.  
 **service_hosts**: Contains target files for all services. **This is the most useful directory.**
+
 **CommonServices**: Contains targets grouped by common services.  
 **DC**: Contains nmap scans for just the domain controllers, and contains a list of domain controllers.  
 **Searchsploit**: Contains searchsploit results for every service.  
