@@ -58,7 +58,7 @@ def searchSploit(targetFile, serv, path):
 
 def msfDatabase(nmapPath):
     
-    # If workspace wasn't defined, set workspace named called techguard
+    # If workspace wasn't defined, set workspace named called hellothere
     if msfWorkspace == None:
         workspace = "hellothere"
     else:
